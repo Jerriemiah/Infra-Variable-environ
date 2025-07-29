@@ -171,9 +171,6 @@ fi
 ###  Screenshot 2: Final script
 <img width="1015" height="635" alt="image" src="https://github.com/user-attachments/assets/c946ade1-79c5-4aa6-8ef9-f4351c8eec21" />
 
-
-![Final script](screenshot2.png)
-
 ---
 
 ##  Summary
